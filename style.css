@@ -1,0 +1,110 @@
+
+.demo-1 {
+    background-color: palegreen;
+    
+    
+  }
+  .demo-inline-1 {
+  
+    background-color: #333;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    
+  }
+  
+  /* Viết Code để chữ E nằm giữa */
+  .demo-2 {
+    margin-bottom: 16px;
+    background-color: lemonchiffon;
+    text-align: center;
+  }
+  .demo-inline-2 {
+    
+    display: inline-block;
+    background-color: #333;
+    width: 50px;
+    height: 50px;
+   
+  }
+  
+  /* Viết Code để chữ N nằm giữa */
+  .demo-3 {
+    background-color: lightskyblue;
+    text-align: right;
+  }
+  .demo-inline-3{
+  
+    display: inline-block;
+    background-color: #333;
+    width: 50px;
+    height: 50px;
+  
+  }
+  
+/* Viết Code để chữ Z nằm giữa */
+.demo-4 {
+    background-color: palegreen;
+    
+    
+  }
+  .demo-inline-4 {
+   
+    background-color: #333;
+    width: 50px;
+    height: 50px;
+    display:inline-block;
+    margin-bottom: 50px;
+    ;
+    
+  }
+  .demo-inline-4-2 {
+
+    background-color: #333;
+    width: 50px;
+    height: 100px;
+    display:inline-block;
+   
+  }
+
+  .demo-5 {
+    margin-bottom: 16px;
+    background-color: lemonchiffon;
+    text-align: center;
+  }
+  .demo-inline-5 {
+  
+    display: inline-block;
+    background-color: #333;
+    width: 50px;
+    height: 100px;
+  }
+  .demo-inline-5-2 {
+
+    background-color: #333;
+    width: 50px;
+    height: 50px;
+    display:inline-block;
+    margin-bottom: 25px;
+   
+  }
+  .demo-6 {
+    background-color: lightskyblue;
+    text-align: right;
+  }
+  .demo-inline-6{
+  
+    display: inline-block;
+    background-color: #333;
+    width: 50px;
+    height: 50px;
+  
+  }
+  .demo-inline-6-2{
+  
+    display: inline-block;
+    background-color: #333;
+    width: 50px;
+    height: 100px;
+  }
+  
